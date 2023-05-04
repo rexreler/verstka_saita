@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block {
+    margin: 150px;
+    display: flex;
+    width: 280px;
+    height: 350px;
+    border-radius: 20px;
+    background: hsl(221, 88%, 67%);
+    flex-direction: column;
+    align-items: center;
+}
+.p_wr {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 27px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.login_salo {
+    margin-top: 31px;
+    width: 214px;
+    height: 49px;
+    background: white;
+    border-radius: 20px;
+    display: flex;
+    border: none;
+    align-items: center;
+    color: #847373;
+}
+
+.login {
+    align-items: center;
+    margin: 10px;
+}
+.your_password {
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 21px;
+    padding-right: 122px;
+}
+.reg {
+    width: 117px;
+    height: 45px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 21px;
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 10px;
+    font-weight: 700;
+}
+.box{
+    display: flex;
+}
+.reg-1{
+    display: flex;
+}
+.login_salo_p {
+    width: 214px;
+    height: 49px;
+    background: white;
+    border-radius: 20px;
+    display: flex;
+    border: none;
+    align-items: center;
+    display: flex;
+}
+
+.block_1 {
+    margin: 150px;
+    display: flex;
+    width: 280px;
+    height: 600px;
+    border-radius: 20px;
+    background: hsl(221, 88%, 67%);
+    flex-direction: column;
+    align-items: center;
+}
+.reg_1 {
+    width: 200px;
+    height: 45px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 21px;
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 10px;
+    font-weight: 700;
+    margin-top: 45px;
+}

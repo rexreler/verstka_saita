@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a { 
+    text-decoration: none;
+    color: #000000; 
+    font-weight: 700;
+}
+.wrapper {
+    margin: 0 auto;
+    display: flex;
+    width: 1200px;
+}
+header{
+    background: hsl(221, 88%, 67%);
+    height: 121px; 
+    width: 1200px;
+    display: flex;
+    align-items: center;
+}
+.header_logo {
+    margin: 19px;
+    width: 87px;
+    height: 85px;
+}
+.exit{
+    margin-left: 23px;
+    margin-top: 26px;
+    width: 38px;
+    height: 38px;
+}
+.text_logo{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    margin-left: 350px;
+}
+.block{
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+}
+.ul{
+    display: flex;
+    list-style-type: none; 
+    color: #000000;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    width: 1020px;
+    justify-content: space-around;
+    margin-left: 85px;
+    margin-top: 26px;
+}
+.wrapper1{
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+    justify-content: space-around;
+}
+.block1{
+    width: 432px;
+    height: 252px;
+    background: hsl(221, 88%, 67%);
+    border-radius: 20px;
+    margin-top: 25px;   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wr1_text{
+    margin-top: 29px;   
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 7px;
+}
+.wr1_text1{
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    
+}
+.wr1_block1{
+    margin-top: 10px;
+    width: 404px;
+    height: 91px;
+    background: #FFFFFF;
+}
+.wr1_block_1_p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px; 
+    color: #6E6969;
+    margin: 10px;
+}
+.p{
+    display: flex;
+    list-style-type: none; 
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #6E6969
+}
+.block1_1{
+    margin-top: 28px;
+    display: flex;
+    width: 408px;
+    justify-content: space-around;
+}
+.wrapper2{
+    display: flex;
+    margin: 0 auto;
+    width: 1200px;
+    justify-content: space-around;
+}
+.block2{
+    display: flex;
+    width: 432px;
+    height: 132px;
+    background: hsl(221, 88%, 67%);
+    border-radius: 20px;
+    margin-top: 29px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.wr2_block2{
+    display: flex;
+    width: 377px;
+    height: 54px;
+    background: #FFFFFF;
+}
+.p1{
+    margin-top: 13px;
+}
+.text{
+    margin-top: 27px;
+    margin-left: 344px;
+    width: 16px;
+    height: 9px;
+}
